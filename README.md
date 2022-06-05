@@ -45,5 +45,6 @@ Additional Information:
 
 - Github: github.com/BennySon9
 - Email: brandonbenson09@gmail.com
+- How to Video: https://drive.google.com/file/d/1AAX1ZAWNrgONuzvu8v_-IGWBQEzOIZ3e/view
 
-[How to create a Professional README](https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide)
+  [How to create a Professional README](https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide)

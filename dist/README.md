@@ -1,4 +1,4 @@
-# brunomars
+# professional-readme-generator
 
   
 
@@ -13,13 +13,13 @@
   * [Credits](#credits)
 
   ## Description
-  i like turtles
+  an app to help you save time and provide a faster way to create a readme file
 
   ## Installation
-  from jo mama
+  pull from github
 
   ## Usage
-  idk
+  run the command in terminal "node index.js"
 
   
 
@@ -31,8 +31,8 @@
 
   ## Questions
   Have questions about this project?  
-  GitHub: https://github.com/brunomarsssssssssssssss  
-  Email: bvrujno@hottie.com
+  GitHub: https://github.com/BennySon9  
+  Email: brandonbenson09@gmail.com
 
   ## Credits
-  bruno
+  Benny
