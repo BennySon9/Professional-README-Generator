@@ -1,4 +1,4 @@
-# asd
+# brunomars
 
   
 
@@ -13,13 +13,13 @@
   * [Credits](#credits)
 
   ## Description
-  asd
+  i like turtles
 
   ## Installation
-  asdas
+  from jo mama
 
   ## Usage
-  d
+  idk
 
   
 
@@ -31,8 +31,8 @@
 
   ## Questions
   Have questions about this project?  
-  GitHub: https://github.com/asd  
-  Email: asd
+  GitHub: https://github.com/brunomarsssssssssssssss  
+  Email: bvrujno@hottie.com
 
   ## Credits
-  i
+  bruno

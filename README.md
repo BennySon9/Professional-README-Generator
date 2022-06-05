@@ -5,7 +5,10 @@ Table of Contents:
 - Description
 - Installation
 - Usage
-- Testing
+- Licenses
+- Contributing
+- Test
+- Questions
 - Additional Information
 
 Description:

@@ -9,12 +9,12 @@ const questions = [
     // name
     type: "input",
     name: "name",
-    message: "What is your name?",
+    message: "What is your name? (Required)",
     validate: (nameInput) => {
       if (nameInput) {
         return true;
       } else {
-        console.log("You MUST enter your name! (Required");
+        console.log("You MUST enter your name!");
         return false;
       }
     },
@@ -94,7 +94,7 @@ const questions = [
     type: "checkbox",
     name: "licensing",
     message: "Choose a license for your project! (Required)",
-    choices: [],
+    choices: ["MIT", "GPL", "CC--0"],
     validate: (licenseInput) => {
       if (licenseInput) {
         return true;
