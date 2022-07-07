@@ -1,4 +1,4 @@
-# professional-readme-generator
+# E-Commerce-back-end
 
   
 
@@ -13,13 +13,13 @@
   * [Credits](#credits)
 
   ## Description
-  an app to help you save time and provide a faster way to create a readme file
+  A back end for e-commerce site working with express.js API using sequelize to interact with MySQL database
 
   ## Installation
-  pull from github
+  Requires a user entering into the terminal "npm i"
 
   ## Usage
-  run the command in terminal "node index.js"
+  Check video
 
   
 
@@ -31,8 +31,8 @@
 
   ## Questions
   Have questions about this project?  
-  GitHub: https://github.com/BennySon9  
+  GitHub: https://github.com/https://github.com/BennySon9  
   Email: brandonbenson09@gmail.com
 
   ## Credits
-  Benny
+  Brandon Benson

@@ -94,7 +94,16 @@ const questions = [
     type: "checkbox",
     name: "licensing",
     message: "Choose a license for your project! (Required)",
-    choices: ["MIT", "GPL", "CC--0"],
+    choices: [
+      "AGPLv3",
+      "GPLv3",
+      "LGPLv3",
+      "MPLv2",
+      "ALv2",
+      "MIT",
+      "BSLv1",
+      "N/A",
+    ],
     validate: (licenseInput) => {
       if (licenseInput) {
         return true;
@@ -122,7 +131,7 @@ const questions = [
     // user email address
     type: "input",
     name: "email",
-    message: "Would you like to add an email? (Required)",
+    message: "Enter your email address! (Required)",
     validate: (emailAddress) => {
       if (emailAddress) {
         return true;
